@@ -1,9 +1,4 @@
-{
-    "author": "Dusty Carver",
-    "name":"Dusty",
-    "header": "Dusty is an experienced Linux Administrator with over 10 years of experience in RedHat, ranging from small environments to those with more than one thousand machines, physical(RackSpace) and virtual(Tractor Supply Company). An expert in unusual bash one liners, regular expressions, text manipulation, and some recent experience in Data Mining and Machine Learning, in R and Python.",
-
-"employment": [
+[
 {"Company Name":"PHS4J","Title":"Sr Linux Engineer","Description":"","Location":"Greater Nashville Area, TN","Started On":"Apr 2017","Finished On":""},
 {"Company Name":"Micfo","Title":"DevOps Engineer","Description":"Micfo is an international and globally certified cloud hosting provider, servicing various market segments ranging from enterprise to government sectors. Deriving its sustainable competitive advantage and market differentiation through the thoughtful and planned expansion of its scalable and geocentric infrastructure as a service (IaaS) platforms and services, Micfo’s strategy has been to grow its client base by delivering what it promises and measuring the results of that delivery relentlessly.","Location":"Charleston, South Carolina Area","Started On":"Feb 2017","Finished On":"May 2017"},
 {"Company Name":"Rackspace, the #1 managed cloud company","Title":"Linux Administrator","Description":"International SMB Linux Administrator","Location":"","Started On":"Aug 2014","Finished On":"Jul 2015"},
@@ -19,5 +14,4 @@
 {"Company Name":"cj Advertising","Title":"IT Assistant","Description":"Support Windows Active Directory network with 2000/2003 Servers Support Exchange 2007 Basic scripting tasks Cisco 7200 Experience","Location":"","Started On":"Dec 2006","Finished On":"Oct 2007"},
 {"Company Name":"iTom","Title":"Network Administrator","Description":"Network administration Deployed and Maintained Windows Server 2003, and cisco products. Supported end users. This position was an outsourced in-house IT position for Coopersteel.","Location":"","Started On":"Feb 2006","Finished On":"Nov 2006"},
 {"Company Name":"Carmike Cinemas Wynnsong 10","Title":"Projectionist","Description":"Threading film Cashier Food Preparation Cleaning","Location":"","Started On":"Nov 2002","Finished On":"Feb 2006"}
-],
-}
+]
