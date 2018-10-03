@@ -1,0 +1,189 @@
+Dusty​ ​is​ ​an​ ​experienced​ ​Linux​ ​Administrator​ ​with​ ​over​ ​10​ ​years​ ​of​ ​experience​ ​in​ ​RedHat,​ ​ranging​ ​from​ ​small
+environments​ ​to​ ​those​ ​with​ ​more​ ​than​ ​one​ ​thousand​ ​machines,​ ​physical(RackSpace)​ ​and​ ​virtual(Tractor​ ​Supply
+Company).​ ​An​ ​expert​ ​in​ ​unusual​ ​bash​ ​one​ ​liners,​ ​regular​ ​expressions,​ ​text​ ​manipulation,​ ​and​ ​some​ ​recent
+experience​ ​in​ ​Data​ ​Mining​ ​and​ ​Machine​ ​Learning,​ ​in​ ​R​ ​and​ ​Python.
+
+Technical​ ​Skills
+RedHat​ ​Linux​ ​ ​10+​ ​years
+
+Apache
+
+Bash
+
+Python
+
+R​ ​language
+
+Virtualization​ ​(VMWare,​ ​Xen,​ ​KVM)
+
+OpenStack
+
+Cloud​ ​(RackSpace,AWS,Linode)
+
+MySQL​ ​Administration​ ​7​ ​years
+
+Perl
+
+JavaScript​ ​(Front,​ ​and​ ​Back​ ​End)
+
+Development​ ​(Agile,​ ​MVC)
+
+Work​ ​Experience
+Contracting/PHS4J​ ​ ​Linux​ ​Administrator/Developer​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​July​ ​2015​ ​–
+Present​ ​Consulting​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​Charleston,​ ​SC,
+Philadelphia,​ ​PA​ ​and​ ​Nashville,​ ​TN
+
+●
+●
+●
+●
+
+●
+●
+●
+
+●
+●
+
+Maintained​ ​over​ ​1000​ ​RedHat​ ​systems,​ ​physical​ ​and​ ​vCenter​ ​VMs​ ​-​ ​TSC
+Set​ ​up​ ​thousands​ ​of​ ​servers​ ​using​ ​DevOps​ ​tools,​ ​Ansible
+Set​ ​up​ ​hosting​ ​company​ ​using​ ​VMWare,​ ​KVM,​ ​and​ ​WHMCMS
+Developed​ ​Configuration​ ​Management/Virtualization​ ​Tool​ ​(Python)
+
+Supported​ ​companies​ ​such​ ​as​ ​Linode​ ​Inc.,​ ​and​ ​Tractor​ ​Supply​ ​Company
+Developed​ ​a​ ​Python​ ​tool​ ​specifically​ ​for​ ​use​ ​with​ ​the​ ​Linode​ ​API.
+Experience​ ​with​ ​Machine​ ​Learning​ ​and​ ​DataMining​ ​(R​ ​language,​ ​Python)
+
+ESXi,​ ​XEN,​ ​and​ ​KVM​ ​support
+Developed​ ​an​ ​OpenSource​ ​deployment​ ​tool​ ​for​ ​Esxi,​ ​Linode,​ ​Docker​ ​and​ ​Redhat​ ​Sat​ ​Server
+
+Linux​ ​Administrator​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​August​ ​2014​ ​–​ ​July​ ​2015
+​ ​Rackspace​ ​Hosting​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​San​ ​Antonio,​ ​TX
+
+●
+●
+●
+●
+●
+●
+●
+
+Supported​ ​customers,​ ​and​ ​automated​ ​alerts,​ ​via​ ​tickets​ ​and​ ​phone​ ​calls,​ ​performing​ ​Linux​ ​maintenance.
+Developed​ ​a​ ​Python​ ​tool​ ​specifically​ ​for​ ​use​ ​with​ ​the​ ​Rackspace​ ​API.
+Was​ ​responsible​ ​for​ ​performing​ ​Linux​ ​maintenance​ ​and​ ​administration​ ​tasks.
+Installation​ ​and​ ​configuration​ ​of​ ​Apache​ ​web​ ​server,​ ​extended​ ​base​ ​functionality​ ​with​ ​third-party​ ​modules.
+Troubleshooting​ ​Magento​ ​setup​ ​and​ ​installation​ ​and​ ​caching​ ​functionality.
+Custom​ ​Python​ ​Development​ ​to​ ​implement​ ​business​ ​logic​ ​for​ ​manual​ ​Linux​ ​administration​ ​tasks.
+Used​ ​OpenStack​ ​extensively​ ​to​ ​manage​ ​cloud​ ​servers.
+
+Systems​ ​Administrator/Web​ ​Developer​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​September​ ​2013​ ​–​ ​August​ ​2014
+Freelance​ ​Work​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​Nashville,​ ​TN
+
+●
+
+Worked​ ​with​ ​a​ ​variety​ ​of​ ​clients​ ​in​ ​the​ ​telecom​ ​industry,​ ​supporting​ ​web​ ​development​ ​efforts​ ​to​ ​implement​ ​evolving
+business​ ​requirements.
+
+●
+●
+●
+●
+●
+●
+
+Developed​ ​a​ ​telecommunications​ ​portal​ ​for​ ​buying​ ​and​ ​selling​ ​cell​ ​phones.​ ​Created​ ​multiple​ ​Wordpress​ ​and
+informational​ ​sites.​ ​As​ ​well​ ​as​ ​other​ ​e-commerce​ ​sites.
+Used​ ​Django​ ​Web​ ​Development​ ​framework​ ​to​ ​create​ ​databases​ ​backed​ ​applications,​ ​utilized​ ​MySQL.
+PHP​ ​Development​ ​with​ ​Propel,​ ​an​ ​operational/relational​ ​database​ ​management​ ​tool.
+Developed​ ​database​ ​driven​ ​Node.js​ ​application​ ​for​ ​online​ ​surveys,​ ​similar​ ​to​ ​a​ ​tool​ ​like​ ​Survey​ ​Monkey.
+Used​ ​jQuery​ ​to​ ​create​ ​interactive​ ​and​ ​response​ ​web​ ​user​ ​interface​ ​for​ ​web​ ​applications.
+Developed​ ​complex​ ​backend​ ​Perl​ ​scripts,​ ​utilized​ ​ModPerl​ ​and​ ​CGI.
+
+Developer/Unix​ ​Admin​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​March​ ​2013​ ​–​ ​September​ ​2013
+Horton​ ​Group​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​Nashville,​ ​TN
+● Drupal​ ​Development​ ​and​ ​Unix​ ​Administration
+● Ubuntu​ ​Linux​ ​servers
+● PHP​ ​Development​ ​with​ ​Drupal
+● jQuery​ ​Development
+● Cloud​ ​Experience
+● Linux​ ​Administration
+Developer​ ​And​ ​Unix​ ​Admin​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​April​ ​2012​ ​–​ ​July​ ​2012​ ​(contract)
+Ten​ ​Fast​ ​Feet​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​Nashville,​ ​TN
+● My​ ​original​ ​contract​ ​was​ ​for​ ​moving​ ​sites​ ​over,​ ​from​ ​two​ ​different​ ​environments,​ ​but​ ​quickly​ ​expanded​ ​to
+PHP(propel)​ ​development
+● Various​ ​Linux​ ​Maintenance
+● PHP​ ​Development​ ​with​ ​Propel
+● ​ ​jQuery​ ​Development
+Developer​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​January​ ​2012​ ​–​ ​October​ ​2012​ ​(contract)
+Capital​ ​Accounts
+● Maintaining​ ​a​ ​debt​ ​collection​ ​database​ ​and​ ​its​ ​interface​ ​for​ ​the​ ​call​ ​center​ ​employees
+● RoR​ ​Development​ ​with​ ​MSSQL
+● PHP​ ​Development​ ​PDO​ ​and​ ​MSSQL​ ​and​ ​MySQL
+● Python​ ​Development
+● Javascript​ ​interface​ ​components
+Developer​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​October​ ​2010​ ​–​ ​October​ ​2011​ ​(contract)
+Mars​ ​Petcare​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​Franklin,​ ​TN
+● Maintaining​ ​and​ ​creating​ ​new​ ​features​ ​for​ ​FOSwiki
+● Perl​ ​Development​ ​and​ ​MySQL
+● Maintenance​ ​and​ ​New​ ​Feature​ ​creation​ ​of​ ​several​ ​FOSwiki​ ​wikis
+● Maintained​ ​on​ ​a​ ​windows​ ​server
+● Javascript​ ​Features​ ​including​ ​ajax​ ​and​ ​jQuery
+Developer​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​September​ ​2010​ ​-​ ​November​ ​2010​ ​(contract)
+Music​ ​and​ ​Books​ ​Christian​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​Franklin,​ ​Tennessee
+● Worked​ ​on​ ​slicehost​ ​Linux​ ​servers(Ubuntu)
+
+●
+●
+●
+●
+●
+●
+
+Development​ ​of​ ​Internal​ ​tool​ ​involving​ ​both​ ​the​ ​integration​ ​of​ ​the​ ​Volusion​ ​API​ ​and​ ​a​ ​3PL(Third​ ​Party​ ​Logistics)
+Application
+PHP​ ​Development​ ​and​ ​MySQL​ ​Code​ ​Igniter
+Maintenance​ ​of​ ​Musichristian.com
+Parsing​ ​an​ ​XML​ ​file,​ ​and​ ​dumping​ ​select​ ​contents​ ​into​ ​a​ ​MySQL​ ​database
+Reading​ ​and​ ​writing​ ​of​ ​proprietary​ ​format​ ​files(CDF-lite),​ ​from​ ​Ingram​ ​Books
+Administration​ ​of​ ​the​ ​MySQL​ ​database
+
+Developer/Linux​ ​Systems​ ​Administrator​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​November​ ​2008​ ​-August​ ​2010
+Dobie​ ​Media
+● Worked​ ​on​ ​amazon​ ​cloud​ ​servers,​ ​creating​ ​and​ ​maintaining​ ​(CentOS)
+● Heavy​ ​Cloud​ ​Experience,​ ​Experience​ ​with​ ​High​ ​Availability​ ​and​ ​Scaling
+● Development​ ​of​ ​Perl​ ​Sys​ ​Admin​ ​tools
+● Development​ ​on​ ​the​ ​back​ ​end​ ​of​ ​the​ ​main​ ​Eviesays.com​ ​app​ ​(Mod_Perl)
+● Scraping​ ​off​ ​other​ ​websites​ ​for​ ​insertion​ ​into​ ​MySQL​ ​Database​ ​using​ ​Perl​ ​scripts
+● Setting​ ​up​ ​and​ ​maintaining​ ​the​ ​apache​ ​servers​ ​for​ ​a​ ​highly​ ​scalable​ ​application​ ​(Eviesays)
+● Eviesays​ ​used​ ​MySQL​ ​and​ ​the​ ​Perl​ ​DBI,​ ​to​ ​access​ ​the​ ​database
+● Wore​ ​a​ ​lot​ ​of​ ​hats,​ ​this​ ​is​ ​a​ ​small​ ​startup
+Web​ ​Developer​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​September​ ​2008​ ​-​ ​November​ ​2008
+Freelance​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​Nashville,​ ​Tennessee
+● PHP​ ​and​ ​Perl​ ​development​ ​of​ ​internal​ ​web​ ​applications
+● Development​ ​of​ ​Perl​ ​And​ ​Python​ ​clients
+● SEO​ ​experience
+Network​ ​Consultant​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​December​ ​2007​ ​-​ ​September​ ​2008
+Dynamic​ ​Edge
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​Nashville,​ ​TN/Ann​ ​Arbor,​ ​MI
+● Wide​ ​Variety​ ​of​ ​networking​ ​and​ ​OS​ ​experience,​ ​with​ ​a​ ​focus​ ​on​ ​2003​ ​SBS,​ ​and​ ​Debian​ ​Linux
+● Perl​ ​and​ ​PHP​ ​web​ ​app​ ​development
+● SEO​ ​experience
+● As​ ​a​ ​consultant​ ​I​ ​interacted​ ​with​ ​the​ ​customer​ ​in​ ​such​ ​a​ ​way​ ​that​ ​I​ ​made​ ​recommendations​ ​and​ ​explained​ ​complex
+issues
+● Cisco​ ​WAN​ ​Experience
+● Both​ ​Postgres​ ​and​ ​MySQL​ ​servers,​ ​were​ ​used​ ​for​ ​DE​ ​projects
+
+Education
+High-Tech​ ​Institute
+Associates​ ​of​ ​Applied​ ​Science
+Computer​ ​Networking​ ​and​ ​Security​ ​Major
+Certifications​ ​and​ ​Awards
+● A+​ ​Certified
+● Network+​ ​Certified
+● Microsoft​ ​Certified​ ​Professional
+● High-Tech​ ​Institute​ ​Information​ ​Technology​ ​Award​ ​Recipient
+
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​July​ ​2006
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​Nashville,​ ​TN
+
+

@@ -1,0 +1,21 @@
+{
+    "author": "Dusty Carver",
+    "name":"Dusty",
+    "header": "Dusty is an experienced Linux Administrator with over 10 years of experience in RedHat, ranging from small environments to those with more than one thousand machines, physical(RackSpace) and virtual(Tractor Supply Company). An expert in unusual bash one liners, regular expressions, text manipulation, and some recent experience in Data Mining and Machine Learning, in R and Python.",
+
+    "employment": [
+            {"employer":"Rackspace Hosting",
+                "start":"1406851200",
+                "end":"1438387200",
+                "duties":[
+                    "Supported customers, and automated alerts, via tickets and phone calls, performing Linux maintenance.","Developed a Python tool specifically for use with the Rackspace API.", "Was responsible for performing Linux maintenance and administration tasks.","Installation and configuration of Apache web server, extended base functionality with third-party modules."," Troubleshooting Magento setup and installation and caching functionality.","Custom Python Development to implement business logic for manual Linux administration tasks.", "Used OpenStack extensively to manage cloud servers."
+                ]
+            },
+             {"employer":"Contracting Developer & Systems Administrator",
+                "start":"",
+                "end":"",
+                "duties":[
+                ]
+            }
+        ]
+}
